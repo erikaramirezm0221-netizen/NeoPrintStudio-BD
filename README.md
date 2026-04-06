@@ -49,6 +49,26 @@ El sistema utiliza tres tablas principales con integridad referencial:
 
 ---
 
+## 📸 Capturas del Funcionamiento
+
+### 🔐 Inicio de Sesión
+Aquí los usuarios registrados pueden acceder a su cuenta para gestionar sus compras.
+![Login](Imagenes/login.png)
+
+---
+
+### 👕 Catálogo de Productos
+Interfaz donde se muestran las prendas de estilo urbano disponibles (Mugs, Gorras, etc.).
+![Catálogo](Imagenes/catalogo.png)
+
+---
+
+### 🛒 Carrito de Compras
+Sección donde el usuario puede ver los productos seleccionados, ajustar cantidades y ver el total.
+![Carrito](Imagenes/carrito.png)
+
+---
+
 ## ⚙️ Guía de Instalación y Despliegue
 
 1.  **Base de Datos**:
